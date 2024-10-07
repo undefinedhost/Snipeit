@@ -1,1 +1,1 @@
-# Snipeit
+# Snippet lib
